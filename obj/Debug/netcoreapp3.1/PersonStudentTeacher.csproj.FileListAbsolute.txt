@@ -1,0 +1,14 @@
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\bin\Debug\netcoreapp3.1\PersonStudentTeacher.exe
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\bin\Debug\netcoreapp3.1\PersonStudentTeacher.deps.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\bin\Debug\netcoreapp3.1\PersonStudentTeacher.runtimeconfig.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\bin\Debug\netcoreapp3.1\PersonStudentTeacher.runtimeconfig.dev.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\bin\Debug\netcoreapp3.1\PersonStudentTeacher.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\bin\Debug\netcoreapp3.1\PersonStudentTeacher.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\obj\Debug\netcoreapp3.1\PersonStudentTeacher.csproj.AssemblyReference.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\obj\Debug\netcoreapp3.1\PersonStudentTeacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\obj\Debug\netcoreapp3.1\PersonStudentTeacher.AssemblyInfoInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\obj\Debug\netcoreapp3.1\PersonStudentTeacher.AssemblyInfo.cs
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\obj\Debug\netcoreapp3.1\PersonStudentTeacher.csproj.CoreCompileInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\obj\Debug\netcoreapp3.1\PersonStudentTeacher.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\obj\Debug\netcoreapp3.1\PersonStudentTeacher.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\PersonStudentTeacher\obj\Debug\netcoreapp3.1\PersonStudentTeacher.genruntimeconfig.cache
